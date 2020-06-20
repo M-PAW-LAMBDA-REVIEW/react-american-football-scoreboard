@@ -119,3 +119,9 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.resetButton {
+  height: 20px;
+  width: 50px;
+  padding-top: 3.7rem;
+}
